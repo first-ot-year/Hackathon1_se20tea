@@ -1,9 +1,12 @@
 package com.hackathon1.demo.User.domain;
 
 import com.hackathon1.demo.User.infrastructure.UserRepository;
+import com.hackathon1.demo.company.domain.Company;
+import com.hackathon1.demo.company.infrastructure.CompanyRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
+import java.time.LocalDateTime;
 import java.util.HashMap;
 import java.util.List;
 
