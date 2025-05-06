@@ -1,4 +1,4 @@
-package User.domain;
+package com.hackathon1.demo.User.domain;
 
 
 import jakarta.persistence.*;

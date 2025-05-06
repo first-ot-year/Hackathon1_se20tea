@@ -1,7 +1,7 @@
-package User.appication;
+package com.hackathon1.demo.User.appication;
 
-import User.domain.UserConsumptionDTO;
-import User.domain.UserService;
+import com.hackathon1.demo.User.domain.UserConsumptionDTO;
+import com.hackathon1.demo.User.domain.UserService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

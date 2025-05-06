@@ -1,6 +1,6 @@
-package User.infrastructure;
+package com.hackathon1.demo.User.infrastructure;
 
-import User.domain.User;
+import com.hackathon1.demo.User.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

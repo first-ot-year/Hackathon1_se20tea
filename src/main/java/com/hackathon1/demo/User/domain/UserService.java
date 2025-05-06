@@ -1,8 +1,7 @@
-package User.domain;
+package com.hackathon1.demo.User.domain;
 
-import User.infrastructure.UserRepository;
+import com.hackathon1.demo.User.infrastructure.UserRepository;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.HashMap;

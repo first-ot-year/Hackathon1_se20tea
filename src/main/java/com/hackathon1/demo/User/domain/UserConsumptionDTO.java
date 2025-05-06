@@ -1,4 +1,4 @@
-package User.domain;
+package com.hackathon1.demo.User.domain;
 
 public record UserConsumptionDTO(
         Long userId,
