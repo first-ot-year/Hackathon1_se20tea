@@ -4,7 +4,6 @@ import com.hackathon1.demo.Request.Dto.RequestRequestDTO;
 import com.hackathon1.demo.Request.Dto.RequestResponseDTO;
 import com.hackathon1.demo.Request.Repository.RequestRepository;
 import com.hackathon1.demo.Request.entity.Request;
-import com.hackathon1.demo.User.Repository.UserRepository;
 import com.hackathon1.demo.User.entity.User;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
