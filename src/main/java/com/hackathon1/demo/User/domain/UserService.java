@@ -1,8 +1,8 @@
 package com.hackathon1.demo.User.domain;
 
 import com.hackathon1.demo.User.infrastructure.UserRepository;
-import com.hackathon1.demo.company.domain.Company;
-import com.hackathon1.demo.company.infrastructure.CompanyRepository;
+import com.hackathon1.demo.Company.domain.Company;
+import com.hackathon1.demo.Company.infrastructure.CompanyRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

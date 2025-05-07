@@ -1,7 +1,8 @@
 package com.hackathon1.demo.UserLimit.Service;
 
-import com.hackathon1.demo.User.Repository.UserRepository;
+
 import com.hackathon1.demo.User.entity.User;
+import com.hackathon1.demo.User.Repository.UserRepository;
 import com.hackathon1.demo.UserLimit.Dto.UserLimitRequestDTO;
 import com.hackathon1.demo.UserLimit.Dto.UserLimitResponseDTO;
 import com.hackathon1.demo.UserLimit.Repository.UserLimitRepository;

@@ -1,7 +1,7 @@
 package com.hackathon1.demo.User.domain;
 
 
-import com.hackathon1.demo.company.domain.Company;
+import com.hackathon1.demo.Company.domain.Company;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;

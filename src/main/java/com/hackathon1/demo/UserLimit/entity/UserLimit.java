@@ -1,7 +1,8 @@
 package com.hackathon1.demo.UserLimit.entity;
 
-import com.jfloresdev.hackaton.hackato.User.entity.User;
-import jakarta.persistence.*;
+
+ import com.hackathon1.demo.User.entity.User;
+ import jakarta.persistence.*;
 import lombok.*;
 
 @Entity
